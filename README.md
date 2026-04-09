@@ -74,13 +74,3 @@ Open http://localhost:3000 in your browser.
 - Local assets are served from the public directory.
 - Remote image loading is configured in next.config.ts.
 
-## Deployment
-
-You can deploy this app to:
-- Vercel (recommended for Next.js)
-- Netlify
-- Any Node.js hosting environment that supports Next.js
-
-## Maintainer
-
-Weboin Technologies
